@@ -1,2 +1,2 @@
 # ICMP
-Program to send custom ICMP packets.
+Program to send custom messages in ICMP packets using Windows Forms.
