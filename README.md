@@ -8,4 +8,4 @@ ICMP is a simple tool to send custom messages using ICMP protocol.
 - In *IPv4* provide destination address (Supports DNS names also)
 - Type your message in *Message* field
 - Click "Send" button
-- Check results below or in programs ex. Wireshark
+- Check results below in *Status* field or in programs like Wireshark
