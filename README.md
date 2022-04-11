@@ -8,7 +8,7 @@ ICMP is a simple tool to send custom messages using ICMP protocol.
 1. Click on Releases on the right bar or here: https://github.com/xSauron/ICMP/releases/latest
 2. Download ICMP.zip and unzip it.
 3. Start ICMP.exe
-4. In case of "Unknown source" click "More info" and "Run"
+4. In case of "Unknown source" popup from Windows click "More info" and "Run"
 
 
 # How do I use this?
